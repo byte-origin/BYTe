@@ -1,8 +1,14 @@
 body {
     height: 100%;
     width: 100%;
-    background-color: #FFF;
-    color: #000;
+    background-color: #181c25;
+    color: #FFF;
+}
+
+@media only screen and (max-width: 768px) {
+    a, p {
+        font-size: 16vw !important;
+    }
 }
 
 #menu {
@@ -21,11 +27,6 @@ body {
 #header {
     height: 15%;
     background-color: #400000;
-}
-
-#main-content {
-    background-color: #181c25;
-    color: #FFF;
 }
 
 #goals-description>* {
