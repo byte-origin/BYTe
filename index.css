@@ -1,0 +1,46 @@
+body {
+    height: 100%;
+    width: 100%;
+    background-color: #FFF;
+    color: #000;
+}
+
+#menu {
+    background-color: #bf0000;
+    color: #FFF;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+#menu-home {
+    background-color: rgb(192, 192, 192);
+    color: #000
+}
+
+#header {
+    height: 15%;
+    background-color: #400000;
+}
+
+#main-content {
+    background-color: #181c25;
+    color: #FFF;
+}
+
+#goals-description>* {
+    border-width: 2px !important;
+    border-color: black !important;
+}
+
+#goals-privacy-title {
+    padding-left: 15px;
+}
+
+#goals-efficiency-title {
+    padding-right: 15px;
+}
+
+#goals-communication-title {
+    padding-left: 15px;
+}
