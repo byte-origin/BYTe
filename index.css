@@ -7,7 +7,7 @@ body {
 
 @media only screen and (max-width: 768px) {
     a, p {
-        font-size: 16vw !important;
+        font-size: 14vw !important;
     }
 }
 #menu {
