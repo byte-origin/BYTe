@@ -1,0 +1,47 @@
+body {
+    height: 100%;
+    width: 100%;
+    background-color: #181c25;
+    color: #FFF;
+}
+
+@media only screen and (max-width: 768px) {
+    a, p {
+        font-size: 12vw !important;
+    }
+}
+
+#menu {
+    background-color: #bf0000;
+    color: #FFF;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+#menu-our-team {
+    background-color: rgb(192, 192, 192);
+    color: #000
+}
+
+#header {
+    height: 15%;
+    background-color: #400000;
+}
+
+#goals-description>* {
+    border-width: 2px !important;
+    border-color: black !important;
+}
+
+#goals-privacy-title {
+    padding-left: 15px;
+}
+
+#goals-efficiency-title {
+    padding-right: 15px;
+}
+
+#goals-communication-title {
+    padding-left: 15px;
+}
