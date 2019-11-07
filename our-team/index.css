@@ -7,7 +7,7 @@ body {
 
 @media only screen and (max-width: 768px) {
     a, p {
-        font-size: 12vw !important;
+        font-size: 8vw !important;
     }
 }
 
